@@ -42,30 +42,30 @@ Here are some images related to the project, demonstrating the design and testin
 
 ---
 
-## License
 
-This project is licensed under the **BSD 2-Clause License**.  
-See the [`LICENSE`](LICENSE) file for full license text.
+## Usage, Attribution, and Licensing
 
-## Usage and Attribution
+This project is provided for **personal, academic, and research purposes only**. 
 
-You are welcome to **use, modify, or build upon this design** for personal, academic, or commercial purposes.  
-If you use or adapt any part of this work, **please credit the original author**:
+⛔ **Commercial use is strictly prohibited.** You may not use, modify, or build upon this design for any commercial or for-profit purpose without explicit prior written permission from the author.
 
-**V. Natarajan**
+If you use or adapt any part of this work for academic or research purposes, **you must credit the original author**:
 
-For academic usage, you may cite this repository using the following BibTeX entry:
+**Vignesh Natarajan (Viki)**  
+🌐 [vikisensorik.com](https://vikisensorik.com)
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+To view a copy of this license, visit: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+### Academic Citation
+If you use this design or reference this work in academic research, publications, or theses, please cite this repository using the following BibTeX entry:
 
 ```bibtex
-@misc{vnatarajan_flexible_tactile_sensing_module_dual_sensors,
-  author       = {V. Natarajan},
-  title        = {Flexible Tactile Sensing Module with Dual Sensors},
+@misc{vnatarajan_taclink,
+  author       = {Vignesh Natarajan (Viki)},
+  title        = {DUALTAC: Flexible Tactile Sensing Module with Dual Sensors},
   year         = {2025},
-  howpublished = {\url{https://github.com/neoviki/flexible.tactile.sensing.module.dual.sensors}},
+  howpublished = {\url{https://github.com/neoviki/dualtac} and \url{https://vikisensorik.com}},
   note         = {Accessed: 2025-04-11}
-
 }
-```
-
-> 📎 Attribution helps support and recognize open-source contributions — thank you!
 
